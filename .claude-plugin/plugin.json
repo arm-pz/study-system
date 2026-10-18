@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "study-system",
+  "version": "0.1.0",
+  "description": "Builds a personal system for acquiring a skill: component breakdown, roadmap, deliberate-practice routine, review schedule, gap audit and mastery assessment.",
+  "author": {
+    "name": "arm-pz",
+    "url": "https://github.com/arm-pz"
+  },
+  "homepage": "https://github.com/arm-pz/study-system",
+  "repository": "https://github.com/arm-pz/study-system",
+  "keywords": ["learning", "study-plan", "deliberate-practice", "spaced-repetition", "skill-acquisition", "self-assessment"],
+  "skills": "./skills/"
+}
