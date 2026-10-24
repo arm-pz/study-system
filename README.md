@@ -29,7 +29,7 @@ Ask it things like:
 
 ## Not for
 
-Being taught the topic itself concept by concept (use `topic-primer`), career positioning, promotion and negotiation (use `career-track`), or a curriculum written for a class or cohort rather than one learner (use `module-learning-path-generator`). Sourced research about a field is `research-brief`'s job, and polishing the prose of notes you already wrote is `wordsmith`'s. It also will not quote you a learning-science statistic or an hours-to-fluency figure it does not have; estimates come as ranges with the assumption attached.
+Being taught the topic itself concept by concept (use `topic-primer`), career positioning, promotion and negotiation (use `career-track`), or a curriculum written for a class or cohort rather than one learner (use `course-builder`, in arm-pz/caffeinity-skills). Sourced research about a field is `research-brief`'s job, and polishing the prose of notes you already wrote is `wordsmith`'s. It also will not quote you a learning-science statistic or an hours-to-fluency figure it does not have; estimates come as ranges with the assumption attached.
 
 ## Install
 
